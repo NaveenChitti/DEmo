@@ -5,6 +5,7 @@ public class Test {
         int n = 10;
         int t1 = 0;
         int t2 = 1;
+
         System.out.print("First " + n + " terms: ");
 
         for (int i = 1; i <= n; ++i)
