@@ -2,7 +2,7 @@ public class Test {
 
     public static void main(String[] args) {
 
-        int n = 10;
+        int number = 10;
         int t1 = 0;
         int t2 = 1;
 
